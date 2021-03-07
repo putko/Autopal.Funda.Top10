@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Autopal.Funda.Top10.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "-r \"amsterdam\""
+    }
+  }
+}
