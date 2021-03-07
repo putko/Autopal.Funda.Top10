@@ -1,4 +1,5 @@
 # Autopal.Funda.Top10
+![.NET](https://github.com/putko/Autopal.Funda.Top10/workflows/.NET/badge.svg)
  * [Purpose of this project](#purpose-of-this-project)  
  * [Problem definition](#problem-definition)
  * [Using the command interface](#using-the-command-interface)
